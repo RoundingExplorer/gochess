@@ -9,7 +9,7 @@
 <img src="https://raw.githubusercontent.com/ornicar/lila/master/public/images/home-bicolor.png" alt="Lichess homepage" title="Lichess comes with light and dark theme, this screenshot shows both." />
 
 
-Lila (li[chess in sca]la) is a free online chess game server focused on [realtime](https://lichess.org/games) gameplay and ease of use.
+Gochess is a free online chess game server focused on [realtime](https://lichess.org/games) gameplay and ease of use.
 
 It features a [search engine](https://lichess.org/games/search),
 [computer analysis](https://lichess.org/ief49lif) distributed with [fishnet](https://github.com/niklasf/fishnet),
@@ -22,7 +22,7 @@ a [mobile app](https://lichess.org/mobile),
 and a [shared analysis board](https://lichess.org/study).
 The UI is available in more than [130 languages](https://crowdin.com/project/lichess) thanks to the community.
 
-Lichess is written in [Scala 2.13](https://www.scala-lang.org/),
+Gochess is written in [Scala 2.13](https://www.scala-lang.org/),
 and relies on the [Play 2.8](https://www.playframework.com/) framework.
 [scalatags](https://www.lihaoyi.com/scalatags/) is used for templating.
 Pure chess logic is contained in the [scalachess](https://github.com/ornicar/scalachess) submodule.
@@ -41,7 +41,7 @@ Please help us [translate Lichess with Crowdin](https://crowdin.com/project/lich
 See [lichess.org/source](https://lichess.org/source) for a list of repositories.
 
 [Join us on discord](https://discord.gg/hy5jqSs) or in the `#lichess` freenode IRC channel for more info.
-Use [GitHub issues](https://github.com/ornicar/lila/issues) for bug reports and feature requests.
+Use [GitHub issues](https://github.com/Roundingexplorer/lila/issues) for bug reports and feature requests.
 
 Installation
 ------------
@@ -61,7 +61,7 @@ Feel free to use the [Lichess API](https://lichess.org/api) in your applications
 Credits
 -------
 
-See the [contributors](https://github.com/ornicar/lila/graphs/contributors) on this repository and [lichess.org/thanks](https://lichess.org/thanks).
+See the [contributors](https://github.com/RoundingExplorer/lila/graphs/contributors) on this repository and [lichess.org/thanks](https://lichess.org/thanks).
 
 Supported browsers
 ------------------
