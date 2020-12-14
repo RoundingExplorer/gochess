@@ -1,4 +1,4 @@
-[lichess.org](https://lichess.org)
+[GoChess.org](https://Gochess.org)
 ==================================
 
 [![Build server](https://github.com/ornicar/lila/workflows/Build%20server/badge.svg)](https://github.com/ornicar/lila/actions?query=workflow%3A%22Build+server%22)
